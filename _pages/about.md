@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ana Victoria Ponce Bobadilla"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
