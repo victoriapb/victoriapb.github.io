@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-I am Postdoctoral researcher at the [Institute for Computational Biomedicine (Saez-Rodriguez Group)](http://saezlab.org/), Heidelberg University Hospital, Germany.
+I am a Postdoctoral researcher at the Institute for Computational Biomedicine ([Saez-Rodriguez Group](http://saezlab.org/)), Heidelberg University Hospital, Germany.
 
 My research focuses on formulating mathematical and computational models for understanding diseases and treatment response. My previous work has mostly focused on cancer dynamics, while currently I am working on kidney fibrosis. I am particularly interested in:
 - Developing multi-scale models that can integrate cross-scale mechanisms and clinical outcomes of the disease.

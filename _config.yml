@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ana Victoria Ponce-Bobadilla"
+  name             : "Ana Victoria \newline Ponce-Bobadilla"
   avatar           : "AVPB.jpg"
-  bio              : "I am a postdoctoral researcher at the Institute of Computational Medicine, Heidelberg University."
+  bio              : "Applied Mathematician \n Postdoctoral researcher at the Institute of Computational Medicine, Heidelberg University."
   location         : "Heidelberg, Germany"
   employer         :
   pubmed           : 
