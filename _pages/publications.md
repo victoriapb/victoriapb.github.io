@@ -13,7 +13,7 @@ For most up to date list, see my [Google Scholar profile](https://scholar.google
 
 * ***Ponce-Bobadilla, A.V.***, Carraro, T., Byrne, H. M., Maini, P. K., Alarcón, T. (2019) *Age Structure Can Account for Delayed Logistic Proliferation of Scratch Assays.* Bulletin of Mathematical Biology 8(7), p. 2706–2724, doi: 10.1007/s11538-019-00625-w [[Preprint]](https://www.biorxiv.org/content/10.1101/540526v1) [[Journal]](https://link.springer.com/article/10.1007/s11538-019-00625-w)
 
-* ***Ponce-Bobadilla, A. V.***, Arévalo, J., Sarró, E., Byrne, H. M., Maini, P. K., Carraro, T., Balocco, S. & Alarcón, T. (2019). *In vitro cell migration quantification method for scratch assays.* Journal of the Royal Society Interface. 16, 20180709, doi: 10.1098/rsif.2018.0709. [[Preprint]](https://arxiv.org/abs/1806.09219) [[Journal]](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2018.0709)  
+* ***Ponce-Bobadilla, A. V.***, Arévalo, J., Sarró, E., Byrne, H. M., Maini, P. K., Carraro, T., Balocco, S. & Alarcón, T. (2019). *In vitro cell migration quantification method for scratch assays.* Journal of the Royal Society Interface. 16, 20180709, doi: 10.1098/rsif.2018.0709. [[Preprint]](https://arxiv.org/abs/1806.09219) [[Journal]](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2018.0709) [[Source code and GUI]](https://bitbucket.org/anavictoria-ponce/local_migration_quantification_scratch_assays/src/master/) [[In silico data]]
 
 * ***Ponce-Bobadilla, A. V.***, Maini, P. K., & Byrne, H. M. (2017). *A stochastic model for tumour control probability that accounts for repair from sublethal damage.* Mathematical Medicine and Biology: A Journal of the IMA. 35(2), p. 181-202. [[Journal]](https://academic.oup.com/imammb/article-abstract/35/2/181/3055078?redirectedFrom=fulltext)
 
@@ -25,13 +25,13 @@ For most up to date list, see my [Google Scholar profile](https://scholar.google
 
 ## Thesis
 
-* PhD thesis: ***Ponce-Bobadilla, A. V.*** (2019) *Mathematical Models of Cell Migration and Proliferation in Scratch Assays.* Heidelberg University. DOI: 10.11588/heidok.00027466 [[Full text]](http://archiv.ub.uni-heidelberg.de/volltextserver/27466/)
+* PhD thesis: ***Ponce-Bobadilla, A. V.*** (2019) *Mathematical Models of Cell Migration and Proliferation in Scratch Assays.* Heidelberg University, Germany. DOI: 10.11588/heidok.00027466 [[Full text]](http://archiv.ub.uni-heidelberg.de/volltextserver/27466/)
 
 * MSc thesis 1: ***Ponce-Bobadilla, A. V.*** (2015) *Stochastic model for tumor control probability: effects of repair from sublethal damage.* École Polytechnique, France. [[Full text]](https://pdfs.semanticscholar.org/9e2b/5654d904fda29bcc2ec2edfcc2baa35818aa.pdf)
-  * Thesis developed at the Wolfson Centre for Mathematical Biology at the University of Oxford. 
+  * Thesis developed at the Wolfson Centre for Mathematical Biology, University of Oxford, United Kingdom. 
 
 * MSc thesis 2: ***Ponce-Bobadilla, A. V.*** (2014) *Modelling Calcium Waves in Different
-Dendritic Structures.* University of Warwick, UK. [[Full text]](https://warwick.ac.uk/fac/cross_fac/complexity/study/emmcs/outcomes/studentprojects/ponce_bobadilla_m1.pdf)
+Dendritic Structures.* University of Warwick, United Kingdom. [[Full text]](https://warwick.ac.uk/fac/cross_fac/complexity/study/emmcs/outcomes/studentprojects/ponce_bobadilla_m1.pdf)
 
 
 <!---  
