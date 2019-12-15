@@ -4,9 +4,11 @@ main:
   - title: "Publications"
     url: /publications/       
         
-  - title: "CV [PDF]"
+  - title: "CV"
     url: https://victoriapb.github.io/cv_15_12_19.pdf
 
   - title: "Contact"
     url: /contact/
+
+
     
