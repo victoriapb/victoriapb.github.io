@@ -18,9 +18,21 @@ For most up to date list, see my [Google Scholar profile](https://scholar.google
 * ***Ponce-Bobadilla, A. V.***, Maini, P. K., & Byrne, H. M. (2017). *A stochastic model for tumour control probability that accounts for repair from sublethal damage*, Mathematical Medicine and Biology: A Journal of the IMA. 35(2), p. 181-202. [[Journal]](https://academic.oup.com/imammb/article-abstract/35/2/181/3055078?redirectedFrom=fulltext)
 
 
-## Peer-reviewed Conference Papers
+## Peer-reviewed Conference Articles
 
 * ***Ponce-Bobadilla, A. V.***, Doursat, R., & Amblard, F. (2015). *An agent-based model of avascular tumor growth.* Proceedings of the European Conference on Artificial Life 2015 (ECAL 2015) University of York, UK, pp. 648-655. [[Journal]](https://www.mitpressjournals.org/doi/abs/10.1162/978-0-262-33027-5-ch114)
+
+
+## Thesis
+
+* PhD thesis: ***Ponce-Bobadilla, A. V.*** (2019) *Mathematical Models of Cell Migration and Proliferation in Scratch Assays* Heidelberg University. DOI: 10.11588/heidok.00027466 [[Full text]](http://archiv.ub.uni-heidelberg.de/volltextserver/27466/)
+
+* MSc thesis 1: ***Ponce-Bobadilla, A. V.*** (2015) *Stochastic model for tumor control probability: effects of repair from sublethal damage* École Polytechnique, France. [[Full text]](https://pdfs.semanticscholar.org/9e2b/5654d904fda29bcc2ec2edfcc2baa35818aa.pdf)
+ * Thesis developed at the Wolfson Centre for Mathematical Biology at the University of Oxford. 
+
+* MSc thesis 2: ***Ponce-Bobadilla, A. V.*** (2014) *Modelling Calcium Waves in Different
+Dendritic Structures* University of Warwick, UK. [[Full text]](https://warwick.ac.uk/fac/cross_fac/complexity/study/emmcs/outcomes/studentprojects/ponce_bobadilla_m1.pdf)
+ 
 
 <!---  
 Preprints 
