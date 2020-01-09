@@ -10,4 +10,5 @@ author_profile: true
 * Mailing address:  <br/>
 Computational Biomedicine  <br/>
 BioQuant – BQ 0053 AG Saez-Rodriguez <br/>
-Im Neuenheimer Feld 267, 69120 Heidelberg <br/>
+Im Neuenheimer Feld 267 <br/>
+69120 Heidelberg, Germany <br/>
