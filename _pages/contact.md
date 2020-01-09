@@ -9,5 +9,5 @@ author_profile: true
 * Phone: +49 (0)6221 54-51211
 * Mailing address:  <br/>
 Computational Biomedicine  <br/>
-Im Neuenheimer Feld 267  <br/>
 BioQuant – BQ 0053 AG Saez-Rodriguez <br/>
+Im Neuenheimer Feld 267, 69120 Heidelberg <br/>
