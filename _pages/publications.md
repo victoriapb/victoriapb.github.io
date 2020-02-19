@@ -9,8 +9,6 @@ For most up to date list, see my [Google Scholar profile](https://scholar.google
 
 ## Journal Articles
 
-* ***Ponce-Bobadilla, A.V.***, Bartmanski, B. J., Grima, R., Othmer, H. (2019) *The status of the QSSA approximation in stochastic simulations of reaction networks.* 2018 Matrix Annals. [[Journal]](https://www.matrix-inst.org.au/wp_Matrix2016/wp-content/uploads/2019/05/Bobadilla.pdf)
-
 * ***Ponce-Bobadilla, A.V.***, Carraro, T., Byrne, H. M., Maini, P. K., Alarcón, T. (2019) *Age Structure Can Account for Delayed Logistic Proliferation of Scratch Assays.* Bulletin of Mathematical Biology 8(7), p. 2706–2724, doi: 10.1007/s11538-019-00625-w [[Preprint]](https://www.biorxiv.org/content/10.1101/540526v1) [[Journal]](https://link.springer.com/article/10.1007/s11538-019-00625-w)
 
 * ***Ponce-Bobadilla, A. V.***, Arévalo, J., Sarró, E., Byrne, H. M., Maini, P. K., Carraro, T., Balocco, S. & Alarcón, T. (2019). *In vitro cell migration quantification method for scratch assays.* Journal of the Royal Society Interface. 16, 20180709, doi: 10.1098/rsif.2018.0709. [[Preprint]](https://arxiv.org/abs/1806.09219) [[Journal]](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2018.0709) [[Source code and GUI]](https://bitbucket.org/anavictoria-ponce/local_migration_quantification_scratch_assays/src/master/) 
@@ -19,6 +17,8 @@ For most up to date list, see my [Google Scholar profile](https://scholar.google
 
 
 ## Peer-reviewed Conference Articles
+
+* ***Ponce-Bobadilla, A.V.***, Bartmanski, B. J., Grima, R., Othmer, H. (2019) *The status of the QSSA approximation in stochastic simulations of reaction networks.* 2018 Matrix Annals. [[Journal]](https://www.matrix-inst.org.au/wp_Matrix2016/wp-content/uploads/2019/05/Bobadilla.pdf)
 
 * ***Ponce-Bobadilla, A. V.***, Doursat, R., & Amblard, F. (2015). *An agent-based model of avascular tumor growth.* Proceedings of the European Conference on Artificial Life 2015 (ECAL 2015) University of York, UK, pp. 648-655. [[Journal]](https://www.mitpressjournals.org/doi/abs/10.1162/978-0-262-33027-5-ch114)
 

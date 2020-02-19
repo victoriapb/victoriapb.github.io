@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-I am a Postdoctoral researcher at the Computational Biomedicine group ([Saez-Rodriguez Group](http://saezlab.org/)), Heidelberg University Hospital, Germany.
+I am a Postdoctoral researcher at [Saez-Rodriguez Group](http://saezlab.org/) at the Institute for Computational Biomedicine, Heidelberg University Hospital, Germany.
 
 Prior to Saez-Rodriguez Group, I completed my PhD in Applied Mathematics at [Heidelberg University](http://www.uni-heidelberg.de) under the supervision of [Thomas Carraro](https://numerik.iwr.uni-heidelberg.de/~carraro/?page_id=119) (Institute for Applied Mathematics, IWR, Heidelberg University), [Tomás Alarcón](https://sites.google.com/site/tomasalarc/home) (Centre de Recerca Matematica, Barcelona, Spain), [Philip Maini](https://people.maths.ox.ac.uk/maini/) and [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) (Wolfson Centre for Mathematical Biology, Mathematical Institute, University of Oxford).
 
