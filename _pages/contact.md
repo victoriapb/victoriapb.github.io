@@ -5,6 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email is the best way to get hold of me:  <br/>
+Email is the best way to reach me:  <br/>
 
 * Email: anavictoria.ponce (at) gmail.com 
