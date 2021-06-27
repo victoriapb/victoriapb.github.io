@@ -36,15 +36,15 @@ redirect_from:
 	* Thesis title:  “Mathematical Models of Cell Migration and Proliferation in Scratch Assays”, supervised by [Thomas Carraro](https://numerik.iwr.uni-heidelberg.de/~carraro/?page_id=119) (Institute for Applied Mathematics, IWR, Heidelberg University), [Tomás Alarcón](https://sites.google.com/site/tomasalarc/home) (Centre de Recerca Matematica, Barcelona, Spain), [Philip Maini](https://people.maths.ox.ac.uk/maini/) and [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) (Wolfson Centre for Mathematical Biology, Mathematical Institute, University of Oxford).
 
 * 2013-2015: ***Master of Science in Complex Systems Science***
-	* 1st year: University of Warwick, UK
-		* Thesis 1: Modelling Calcium Waves in Different Dendritic Structures, supervised by Yulia Timofeeva
-		* Key subjects: Probabilistic and statistical inference, Quantifying correlation and complexity, Complexity and chaos in dynamical systems, Networks, Self-Organization and Emergence, Introduction to Theoretical Neuroscience, Population Dynamics
-	* 2nd year: École Polytechnique, France
+	* 2014-2015: École Polytechnique, France
 		* Thesis 2: "Stochastic model for tumor control probability effects of repair from sublethal damage" supervised by Philip Maini and Helen Byrne
 		* Thesis developed at  Wolfson Centre for Mathematical Biology, Mathematical Institute, University of Oxford, UK.
 		* Designed, implemented and analysed a new stochastic model to quantify tumour response to radiotherapy taking into account sublethal damage.
 		* Assessed the predictivity of different tumour response models to radiotherapy using deterministic representations and stochastic individual-based simulations.
 		* Key subjects: Partial differential equations, functional analysis, agent-based modeling, mathematical methods in biology, partial differential equations of image processing
+	* 2013-2014: University of Warwick, UK
+		* Thesis 1: Modelling Calcium Waves in Different Dendritic Structures, supervised by Yulia Timofeeva
+		* Key subjects: Probabilistic and statistical inference, Quantifying correlation and complexity, Complexity and chaos in dynamical systems, Networks, Self-Organization and Emergence, Introduction to Theoretical Neuroscience, Population Dynamics
 
 * 2008-2013: ***Bachelor of Science in Mathematics***, National Autonomous University of Mexico (UNAM), Mexico
 	* Graduated with Honors, overall GPA: 9.96/10
