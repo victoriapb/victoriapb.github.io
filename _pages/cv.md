@@ -9,16 +9,19 @@ redirect_from:
 
 ## Work experience
 
-* 2021-Present: ***Senior Pharmacometrician*** at AbbVie Deutschland GmbH & Co. KG, Ludwigshafen am Rhein, Germany.
-* 2020-2021: ***Pharmacometrician*** at AbbVie Deutschland GmbH & Co. KG, Ludwigshafen am Rhein, Germany.
+* AbbVie Deutschland GmbH & Co. KG, Ludwigshafen am Rhein, Germany.
+	* May 2021-Present: ***Senior Pharmacometrician***
+	* August 2020-May 2021: ***Pharmacometrician***
 	* Application of different modeling and simulation approaches to explain pharmacokinetic-pharmacodynamic dynamics based on clinical trial data.
 
-* 2019-2020: ***Postdoctoral researcher*** at the Institute for Computational Biomedicine, Heidelberg University Hospital, Germany.
+*  Institute for Computational Biomedicine, Heidelberg University Hospital, Germany.
+	* August 2019- July 2020: ***Postdoctoral researcher***
 	* Formulated, analysed and simulated a multiscale model of cell communication between macrophages and fibroblasts.
 	* Calculated spatial statistics of experimental images through an image processing pipeline (using bash and python).
 	* Integrated data from different experiments to a mathematical model through a computational pipeline to improve model predictions.
 
-* 2015-2019: ***Doctoral researcher*** at the Institute for Applied Mathematics, Heidelberg University, Germany.
+* Institute for Applied Mathematics, Heidelberg University, Germany.
+	* August 2015- December 2019: ***Doctoral researcher***
 	* Constructed an image processing pipeline (using C++, bash and Matlab) that processes experimental data, performs image segmentation and does a statistical analysis of migration measurements extracted from the experimental data.
 	* Developed a graphical user interface for the statistical analysis of cell migration data.
 	* Improved mathematical models of in-vitro cell dynamics by improving the description of cell migration and proliferation.
@@ -26,19 +29,17 @@ redirect_from:
 	* Examined finite element discretisations for solving reaction diffusion equations in C++.
 	* Worked closely with both wet and dry lab scientists from five international laboratories.
 
-* January 2015-July 2015: ***Master research student*** at the Wolfson Centre for Mathematical Biology, Mathematical Institute, University of Oxford, UK.
+* Wolfson Centre for Mathematical Biology, Mathematical Institute, University of Oxford, UK.
+	* January 2015-July 2015: ***Master research student***  
 	* Designed, implemented and analysed a new stochastic model to quantify tumour response to radiotherapy taking into account sublethal damage.
 	* Assessed the predictivity of different tumour response models to radiotherapy using deterministic representations and stochastic individual-based simulations.
-
-* June 2013-August 2013: ***Undergraduate summer researcher*** at the Institute for Pure and Applied Mathematics, University of California, Los Angeles, USA.
-	* Together with three undergraduate students, UCLA academics and a researcher from Symantec Corporation, we performed a cryptoanalysis of an encrypted search scheme.
-	* Developed information leakage models to quantitatively measure vulnerabilities of the encryption scheme.
-	* Facilitated possible security pitfalls of Lucene index under various attacks and advised future improvements of the proposed scheme.
 
 ## Education
 
 * 2015-2019: ***PhD in Applied Mathematics***, Heidelberg University, Germany
 	* Graduated summa cum laude
+	* Thesis title:  “Mathematical Models of Cell Migration and Proliferation in Scratch Assays”
+	* Supervisors: [Thomas Carraro](https://numerik.iwr.uni-heidelberg.de/~carraro/?page_id=119) (Institute for Applied Mathematics, IWR, Heidelberg University), [Tomás Alarcón](https://sites.google.com/site/tomasalarc/home) (Centre de Recerca Matematica, Barcelona, Spain), [Philip Maini](https://people.maths.ox.ac.uk/maini/) and [Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne) (Wolfson Centre for Mathematical Biology, Mathematical Institute, University of Oxford).
 
 * 2013-2015: ***Master of Science in Complex Systems Science***
 	* 1st year: University of Warwick, UK
