@@ -9,7 +9,7 @@ For most up to date list, see my [Google Scholar profile](https://scholar.google
 
 ## Journal Articles
 
-* ***Ponce-Bobadilla, A. V.***, Stodtmann, S., Chen, M. J., Winzenborg, I., Mensing, S., Blaes, J., ... & Mostafa, N. M. (2023). *Assessing the Impact of Immunogenicity and Improving Prediction of Trough Concentrations: Population Pharmacokinetic Modeling of Adalimumab in Patients with Crohn’s Disease and Ulcerative Colitis.* Clinical Pharmacokinetics, 1-12. [[Journal]](https://link.springer.com/article/10.1007/s40262-023-01221-x)
+* ***Ponce-Bobadilla, A. V.***, Stodtmann, S., Chen, M. J., Winzenborg, I., Mensing, S., Blaes, J., Haslberger, T., Laplanche, L., Dreher, I. & Mostafa, N. M. (2023). *Assessing the Impact of Immunogenicity and Improving Prediction of Trough Concentrations: Population Pharmacokinetic Modeling of Adalimumab in Patients with Crohn’s Disease and Ulcerative Colitis.* Clinical Pharmacokinetics, 1-12. [[Journal]](https://link.springer.com/article/10.1007/s40262-023-01221-x)
 
 * ***Ponce-Bobadilla, A. V.***, Stodtmann, S., Eckert, D., Zhou, W., Liu, W., & Mohamed, M. E. F. (2023). *Upadacitinib Population Pharmacokinetics and Exposure-Response Relationships in Ulcerative Colitis Patients.* Clinical Pharmacokinetics, 62(1), 101-112. [[Journal]](https://link.springer.com/article/10.1007/s40262-022-01191-6)
 
