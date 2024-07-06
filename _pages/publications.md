@@ -9,6 +9,12 @@ For most up to date list, see my [Google Scholar profile](https://scholar.google
 
 ## Journal Articles
 
+* Stodtmann, S., Chen, M. J., ***Ponce‐Bobadilla, A. V.***, Finney‐Hayward, T. K., Kalabic, J., & Mostafa, N. M. *SERENE ER Analysis Part 2 SERENE‐UC: Exposure‐response Analysis of Higher Versus Standard Adalimumab Dosing Regimens for Patients with Moderately to Severely Active Ulcerative Colitis.* Clinical Pharmacology in Drug Development.[[Journal]](https://accp1.onlinelibrary.wiley.com/doi/full/10.1002/cpdd.1437)
+
+* Chen, M. J., ***Ponce‐Bobadilla, A. V.***, Stodtmann, S., Song, A. P., Finney‐Hayward, T. K., & Mostafa, N. M. (2024). *SERENE ER Analysis Part 1‐SERENE CD: Exposure‐Response Analysis of Higher Versus Standard Adalimumab Dosing Regimens for Patients With Moderately to Severely Active Crohn Disease.* Clinical Pharmacology in Drug Development.[[Journal]](https://accp1.onlinelibrary.wiley.com/doi/abs/10.1002/cpdd.1438)
+
+* Valderrama, D., ***Ponce‐Bobadilla, A. V.***, Mensing, S., Fröhlich, H., & Stodtmann, S. (2024). *Integrating machine learning with pharmacokinetic models: Benefits of scientific machine learning in adding neural networks components to existing PK models.* CPT: Pharmacometrics & Systems Pharmacology, 13(1), 41-53. [[Journal]](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.13054)
+
 * ***Ponce-Bobadilla, A. V.***, Stodtmann, S., Chen, M. J., Winzenborg, I., Mensing, S., Blaes, J., Haslberger, T., Laplanche, L., Dreher, I. & Mostafa, N. M. (2023). *Assessing the Impact of Immunogenicity and Improving Prediction of Trough Concentrations: Population Pharmacokinetic Modeling of Adalimumab in Patients with Crohn’s Disease and Ulcerative Colitis.* Clinical Pharmacokinetics, 1-12. [[Journal]](https://link.springer.com/article/10.1007/s40262-023-01221-x)
 
 * ***Ponce-Bobadilla, A. V.***, Stodtmann, S., Eckert, D., Zhou, W., Liu, W., & Mohamed, M. E. F. (2023). *Upadacitinib Population Pharmacokinetics and Exposure-Response Relationships in Ulcerative Colitis Patients.* Clinical Pharmacokinetics, 62(1), 101-112. [[Journal]](https://link.springer.com/article/10.1007/s40262-022-01191-6)
