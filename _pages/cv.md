@@ -10,7 +10,9 @@ redirect_from:
 ## Work experience
 
 * AbbVie Deutschland GmbH & Co. KG, Ludwigshafen am Rhein, Germany.
-	* May 2021-Present: ***Senior Pharmacometrician***
+	* October 2024-Present: ***Principal Pharmacometrician***
+	* June 2023-September 2024: ***Senior Pharmacometrician II***
+  * May 2021-May 2023: ***Senior Pharmacometrician I***
 	* August 2020-May 2021: ***Pharmacometrician***
 	* Application of different modeling and simulation approaches to explain pharmacokinetic-pharmacodynamic dynamics based on clinical trial data.
 
