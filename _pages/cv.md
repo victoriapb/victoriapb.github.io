@@ -9,8 +9,11 @@ redirect_from:
 
 ## Work experience
 
+* Certara, Basel, Switzerland.
+	* December 2025-Present: ***Associate Director***
+    
 * AbbVie Deutschland GmbH & Co. KG, Ludwigshafen am Rhein, Germany.
-	* October 2024-Present: ***Principal Pharmacometrician***
+	* October 2024-August 2025: ***Principal Pharmacometrician***
 	* June 2023-September 2024: ***Senior Pharmacometrician II***
   * May 2021-May 2023: ***Senior Pharmacometrician I***
 	* August 2020-May 2021: ***Pharmacometrician***

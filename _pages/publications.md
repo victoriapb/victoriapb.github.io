@@ -9,6 +9,12 @@ For most up to date list, see my [Google Scholar profile](https://scholar.google
 
 ## Journal Articles
 
+* ***Ponce‐Bobadilla, A. V.***, Bräm, D., Farnoud, A., Fröhlich, H., Janssen, A., Korsbo, N., et al. (2025). Predictive AI in Clinical Pharmacology: A Call to Action to Develop Robust Benchmarking Practices. CPT: Pharmacometrics & Systems Pharmacology. [[Journal]](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.70155)
+
+* Bachhav, S. S., ***Ponce‐Bobadilla, A. V.***, Clausznitzer, D., Stodtmann, S., & Xiong, H. (2025). Use of Model‐Based Meta‐Analysis to Inform the Design of Early Clinical Trials of Anti‐Amyloid Beta Therapies in Alzheimer's Disease. CPT: Pharmacometrics & Systems Pharmacology. [[Journal]](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.70038)
+
+* ***Ponce‐Bobadilla, A. V.***, Schmitt, V., Maier, C. S., Mensing, S., & Stodtmann, S. (2024). Practical guide to SHAP analysis: Explaining supervised machine learning model predictions in drug development. Clinical and translational science, 17(11). [[Journal]](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1111/cts.70056)
+  
 * Stodtmann, S., Chen, M. J., ***Ponce‐Bobadilla, A. V.***, Finney‐Hayward, T. K., Kalabic, J., & Mostafa, N. M. *SERENE ER Analysis Part 2 SERENE‐UC: Exposure‐response Analysis of Higher Versus Standard Adalimumab Dosing Regimens for Patients with Moderately to Severely Active Ulcerative Colitis.* Clinical Pharmacology in Drug Development.[[Journal]](https://accp1.onlinelibrary.wiley.com/doi/full/10.1002/cpdd.1437)
 
 * Chen, M. J., ***Ponce‐Bobadilla, A. V.***, Stodtmann, S., Song, A. P., Finney‐Hayward, T. K., & Mostafa, N. M. (2024). *SERENE ER Analysis Part 1‐SERENE CD: Exposure‐Response Analysis of Higher Versus Standard Adalimumab Dosing Regimens for Patients With Moderately to Severely Active Crohn Disease.* Clinical Pharmacology in Drug Development.[[Journal]](https://accp1.onlinelibrary.wiley.com/doi/abs/10.1002/cpdd.1438)
