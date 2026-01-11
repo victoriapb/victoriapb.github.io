@@ -10,7 +10,7 @@ redirect_from:
 ## Work experience
 
 * Certara, Basel, Switzerland.
-	* December 2025-Present: ***Associate Director***
+	* December 2025-Present: ***Associate Director, Pharmacometrics***
     
 * AbbVie Deutschland GmbH & Co. KG, Ludwigshafen am Rhein, Germany.
 	* October 2024-August 2025: ***Principal Pharmacometrician***
